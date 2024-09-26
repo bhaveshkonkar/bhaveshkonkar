@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Bhavesh Konkar </h2>
-<h4>I am Fresher at VIT Pune 👨🏻‍🎓</h4>
-<h4>I just started with my coding journey 👨‍💻 </h4>
+<h4>--> I am Fresher at VIT Pune 👨🏻‍🎓</h4>
+<h4>--> I just started with my coding journey👨‍💻 </h4>
 
 ###
 
