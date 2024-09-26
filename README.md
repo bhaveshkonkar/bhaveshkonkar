@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 - 👋 Hi, I’m @bhaveshkonkar
 - 🏛️ Fresher at VIT pune
 - 🌱 I’m currently learning ... web devlopment
