@@ -31,6 +31,7 @@
    <img width="12" />
    <a href ="https://www.linkedin.com/"><img src="https://www.svgrepo.com/show/75820/linkedin.svg" height="35" alt="linkedin logo"  />
 </div>
+<img width="12" />
 <img align="centre" width:100% src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif"  />
 
 ###
