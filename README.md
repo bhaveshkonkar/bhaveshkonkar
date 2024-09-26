@@ -15,8 +15,6 @@
 <h2>🛠️ Technologies:</h2>
 <div align="left">
 <img width="12" />
-<img width="12" />
-  <img align="right" height="150" width:100% src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -37,6 +35,7 @@
    <img width="12" />
    <a href ="https://www.linkedin.com/"><img src="https://www.svgrepo.com/show/75820/linkedin.svg" height="35" alt="linkedin logo"  />
 </div>
+<img align="right" height="150" width:100% src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif"  />
 
 ###
 
