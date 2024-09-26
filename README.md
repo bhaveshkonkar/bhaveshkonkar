@@ -28,6 +28,7 @@
   <img width="12" />
 <p></p>
 <h2>🌐 Social Media</h2>
+<img width="12" />
 <p></p>
 <div align="left">
   <img src="https://www.svgrepo.com/show/13671/youtube.svg" height="35" alt=""  /> 
