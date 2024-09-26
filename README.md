@@ -25,11 +25,11 @@
 <p></p>
 <h2>🌐 Social Media</h2>
 <div align="left">
-  <a href ="https://www.youtube.com/"><img src="https://www.svgrepo.com/show/13671/youtube.svg" height="35" alt=""  /></a> 
+  <a href ="https://www.youtube.com/" target="_blank"><img src="https://www.svgrepo.com/show/13671/youtube.svg" height="35" alt=""  /></a> 
   <img width="12" />
-   <a href ="https://www.instagram.com/"><img src="https://www.svgrepo.com/show/13639/instagram.svg" height="35" alt="instagram logo"  />
+   <a href ="https://www.instagram.com/" target="_blank"><img src="https://www.svgrepo.com/show/13639/instagram.svg" height="35" alt="instagram logo"  />
    <img width="12" />
-   <a href ="https://www.linkedin.com/"><img src="https://www.svgrepo.com/show/75820/linkedin.svg" height="35" alt="linkedin logo"  />
+   <a href ="https://www.linkedin.com/" target="_blank"><img src="https://www.svgrepo.com/show/75820/linkedin.svg" height="35" alt="linkedin logo"  />
 </div>
 <img width="12" />
 <img align="centre" width:100% src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif"  />
