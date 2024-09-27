@@ -1,42 +1,47 @@
-<h2 align="left">Hi 👋! My name is Bhavesh Konkar </h2>
-<h4>--> I am Fresher at VIT Pune 👨🏻‍🎓</h4>
-<h4>--> I just started with my coding journey👨‍💻 </h4>
+# 💫Hi there 👋!! My name is Bhavesh Konkar:
+<img width="8" />
+<img align="right" width:100% src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif"  />
 
-###
-
-
-
-###
-
-
-  
-
-###
-<h2>🛠️ Technologies:</h2>
-<div align="left">
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+ <br><br>--> I am a fresher at VIT pune 👨🏻‍🎓<br>--> I Just started with my coding journey👨‍💻<br>--> love to work on webdev projects 🌍<br>
+<br>
+<br>
+## <h1>🌐 Socials :</h1>
+<div>
+  <a href = "https://www.youtube.com/@BhaveshKonkar-1517" target="_blank"><img height="50" src="https://www.svgrepo.com/show/13671/youtube.svg" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452051/linkedin.svg" /></a>
+  <img width="12" />
+  <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452121/twitter-1.svg" /></a>
+  <img width="12" />
+  <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452188/discord.svg" /></a>
 </div>
+<div>
+  <h1>💻Tech Stack :</h1>
+  <img align="left" height="50" src="https://www.svgrepo.com/show/452228/html-5.svg"/>
+  <img align="left" height="50" src="https://www.svgrepo.com/show/452185/css-3.svg"/>
+  <img align="left" height="50" src="https://www.svgrepo.com/show/452091/python.svg"/>
+  <img align="left" height="50" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>
   <img width="12" />
-<p></p>
-<h2>🌐 Social Media</h2>
-<div align="left">
-  <a href ="https://www.youtube.com/@Bhaveshkonkar-1517" target="_blank"><img src="https://www.svgrepo.com/show/13671/youtube.svg" height="35" alt=""  /></a> 
-  <img width="12" />
-   <a href ="https://www.instagram.com/" target="_blank"><img src="https://www.svgrepo.com/show/13639/instagram.svg" height="35" alt="instagram logo"  />
-   <img width="12" />
-   <a href ="https://www.linkedin.com/" target="_blank"><img src="https://www.svgrepo.com/show/75820/linkedin.svg" height="35" alt="linkedin logo"  />
 </div>
-<img width="12" />
-<img align="centre" width:100% src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif"  />
+<div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
 <br clear="both">
 
+# 🔥 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhaveshkonkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhaveshkonkar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkonkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+### <h1>🔝 Top Contributed Repo</h1>
+![](https://github-contributor-stats.vercel.app/api?username=bhaveshkonkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bhaveshkonkar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
