@@ -25,7 +25,7 @@
 <p></p>
 <h2>🌐 Social Media</h2>
 <div align="left">
-  <a href ="https://www.youtube.com/" target="_blank"><img src="https://www.svgrepo.com/show/13671/youtube.svg" height="35" alt=""  /></a> 
+  <a href ="https://www.youtube.com/@Bhaveshkonkar-1517" target="_blank"><img src="https://www.svgrepo.com/show/13671/youtube.svg" height="35" alt=""  /></a> 
   <img width="12" />
    <a href ="https://www.instagram.com/" target="_blank"><img src="https://www.svgrepo.com/show/13639/instagram.svg" height="35" alt="instagram logo"  />
    <img width="12" />
