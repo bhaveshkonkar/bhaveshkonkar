@@ -15,7 +15,7 @@
   <img width="12" />
   <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452121/twitter-1.svg" /></a>
   <img width="12" />
-  <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452188/discord.svg" /></a>
+  <a href = "https://discord.com/channels/1289204681209548903/1289204682186690572" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452188/discord.svg" /></a>
 </div>
 <div>
   <h1>💻Tech Stack :</h1>
