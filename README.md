@@ -1,47 +1,73 @@
-# 💫Hi there 👋!! My name is Bhavesh Konkar:
-<img width="8" />
-<img align="right" width:100% src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif"  />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body >
+    <header>
+        <h1>Hi!👋🏻 I'm Bhavesh !</h1>
+    <p align="right">
+    <img src="https://media.tenor.com/mH_Sq3JI3jkAAAAj/helloworld-programming.gif" width=100% height="190"></p>
+        <h2>Web Developer</h2>
+        <p>➡️ I am a Fresher at VIT (Pune) 🧑🏻‍🎓</p>
+        <p>➡️ I just started my coding journey 👨‍💻</p>
+        <p>➡️ I love to work on web dev projects 🌎</p>
+    </header>
+<section id="contact">
+    <h3>Contact Me</h3>
+  <hr>
+      <ul>
+            <li>🌍 I'm based in Pune</li>
+            <li>✉️ You can contact me at: <a href="mailto:konkarb83.official@gmail.com">konkarb83.official@gmail.com</a></li>
+        </ul>
+    </section>
 
- <br><br>--> I am a fresher at VIT pune 👨🏻‍🎓<br>--> I Just started with my coding journey👨‍💻<br>--> love to work on webdev projects 🌍<br>
-<br>
-<br>
-## <h1>🌐 Socials :</h1>
-<div>
-  <a href = "https://www.youtube.com/@BhaveshKonkar-1517" target="_blank"><img height="50" src="https://www.svgrepo.com/show/13671/youtube.svg" /></a>
-  <img width="12" />
-  <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /></a>
-  <img width="12" />
-  <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452051/linkedin.svg" /></a>
-  <img width="12" />
-  <a href = "" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452121/twitter-1.svg" /></a>
-  <img width="12" />
-  <a href = "https://discord.com/channels/1289204681209548903/1289204682186690572" target="_blank"><img height="50" src="https://www.svgrepo.com/show/452188/discord.svg" /></a>
-</div>
-<div>
-  <h1>💻Tech Stack :</h1>
-  <img align="left" height="50" src="https://www.svgrepo.com/show/452228/html-5.svg"/>
-  <img align="left" height="50" src="https://www.svgrepo.com/show/452185/css-3.svg"/>
-  <img align="left" height="50" src="https://www.svgrepo.com/show/452091/python.svg"/>
-  <img align="left" height="50" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>
-  <img width="12" />
-</div>
-<div>
+  <section id="learning">
+        <h3>Learning</h3>
+    <hr>
+        <p>🧠 I'm learning Web Development and I'm open to collaborating on web development projects.</p>
+        <a href="https://www.github.com/bhaveshkonkar" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/github/followers/bhaveshkonkar?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" alt="GitHub followers badge" />
+        </a>
+  </section>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <section id="skills">
+        <h3>Skills</h3>
+    <hr>
+        <div>
+              <p align="right">
+    <img src="https://media1.tenor.com/m/jM0aoM8e-iEAAAAC/web-developer-mycrxn.gif" width=100% height="350"></p>
+        </div>
+  </section>
 
-###
+  <section id="socials">
+        <h3>Socials</h3>
+    <hr>
+        <p>
+            <a href="https://www.github.com/bhaveshkonkar" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+            </a>
+            <a href="http://www.instagram.com/Ace_programer" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+            </a>
+        </p>
+  </section>
 
-<br clear="both">
-
-# 🔥 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhaveshkonkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhaveshkonkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkonkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### <h1>🔝 Top Contributed Repo</h1>
-![](https://github-contributor-stats.vercel.app/api?username=bhaveshkonkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=bhaveshkonkar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <section id="badges">
+        <h3>My GitHub Stats</h3>
+    <hr>
+        <a href="http://www.github.com/bhaveshkonkar">
+            <img src="https://github-readme-stats.vercel.app/api?username=bhaveshkonkar&show_icons=true&hide=contribs&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true" alt="bhaveshkonkar's GitHub stats" />
+        </a>
+    <br>
+        <a href="http://www.github.com/bhaveshkonkar">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshkonkar&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+        </a>
+        <a href="http://www.github.com/bhaveshkonkar">
+         
+        </a>
+  </section>
+</body>
+</html>
