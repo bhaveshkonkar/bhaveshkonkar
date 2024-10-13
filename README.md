@@ -16,7 +16,7 @@
         <p>➡️ I love to work on web dev projects 🌎</p>
     </header>
 <section id="contact">
-    <h3>Contact Me</h3>
+    <h3>📇 Contact Me 📇</h3>
   <hr>
       <ul>
             <li>🌍 I'm based in Pune</li>
@@ -25,7 +25,7 @@
     </section>
 
   <section id="learning">
-        <h3>Learning</h3>
+        <h3>📚 Learning 📚</h3>
     <hr>
         <p>🧠 I'm learning Web Development and I'm open to collaborating on web development projects.</p>
         <a href="https://www.github.com/bhaveshkonkar" target="_blank" rel="noreferrer">
@@ -34,7 +34,7 @@
   </section>
 
   <section id="skills">
-        <h3>Skills</h3>
+        <h3>🔥 Skills 🔥</h3>
     <hr>
         <div>
               <p align="right">
@@ -43,7 +43,7 @@
   </section>
 
   <section id="socials">
-        <h3>Socials</h3>
+        <h3>📱 Socials 📱</h3>
     <hr>
         <p>
             <a href="https://www.github.com/bhaveshkonkar" target="_blank" rel="noreferrer">
@@ -56,7 +56,7 @@
   </section>
 
   <section id="badges">
-        <h3>My GitHub Stats</h3>
+        <h3>📊 My GitHub Stats 📊</h3>
     <hr>
         <a href="http://www.github.com/bhaveshkonkar">
             <img src="https://github-readme-stats.vercel.app/api?username=bhaveshkonkar&show_icons=true&hide=contribs&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true" alt="bhaveshkonkar's GitHub stats" />
@@ -66,7 +66,6 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshkonkar&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
         </a>
         <a href="http://www.github.com/bhaveshkonkar">
-         
         </a>
   </section>
 </body>
