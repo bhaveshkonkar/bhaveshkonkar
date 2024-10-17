@@ -9,7 +9,7 @@
     <header>
         <h1>Hi!👋🏻 I'm Bhavesh !</h1>
     <p align="right">
-    <img src="https://media1.tenor.com/m/EyASgyJCDfEAAAAC/hello-world-animation.gif" width=100% height="190"></p>
+    <img src="https://media1.tenor.com/m/EyASgyJCDfEAAAAC/hello-world-animation.gif" width=100% height="230"></p>
         <h2>Web Developer</h2>
         <p>➡️ I am a Fresher at VIT (Pune) 🧑🏻‍🎓</p>
         <p>➡️ I just started my coding journey 👨‍💻</p>
@@ -38,7 +38,7 @@
     <hr>
         <div>
               <p align="right">
-    <img src="https://media1.tenor.com/m/jM0aoM8e-iEAAAAC/web-developer-mycrxn.gif" width=100% height="350"></p>
+    <img src="https://media1.tenor.com/m/jM0aoM8e-iEAAAAC/web-developer-mycrxn.gif" width=100% height="400"></p>
         </div>
   </section>
 
